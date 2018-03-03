@@ -1,0 +1,22 @@
+body{
+	text-align: center;
+}
+
+.jumbotron{
+	background-color:slategrey;
+	margin-top:50px;
+}
+
+.footer{
+    position: fixed;
+    height: 70px;
+    bottom: 0;
+    width: 100%;
+	color:#ffffff;
+    font-size:14px;
+    text-align:center;
+    padding-top:20px;
+    border-top:2px solid #ffffff;
+    margin-top:100px;
+    clear:both;
+}
